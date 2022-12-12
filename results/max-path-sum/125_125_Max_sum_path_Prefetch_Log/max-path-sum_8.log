@@ -1,0 +1,22 @@
+[UART] UART0 is here (stdin/stdout).
+666071577 
+1747010446 
+898009505 
+1278895859 
+748259338 
+            cycles : 2481448
+           instret : 1784118
+             loads : 449550
+            stores : 124173
+           I$ miss : 20
+   D$ regular miss : 974
+  D$ prefetch miss : 0
+        D$ release : 23216
+         ITLB miss : 0
+         DTLB miss : 0
+       L2 TLB miss : 0
+          branches : 78000
+       mispredicts : 16832
+load-use interlock : 275492
+        I$ blocked : 900
+        D$ blocked : 23448

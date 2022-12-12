@@ -1,0 +1,22 @@
+[UART] UART0 is here (stdin/stdout).
+0 
+0 
+0 
+0 
+0 
+            cycles : 15951
+           instret : 11461
+             loads : 2660
+            stores : 778
+           I$ miss : 21
+   D$ regular miss : 5
+  D$ prefetch miss : 0
+        D$ release : 162
+         ITLB miss : 0
+         DTLB miss : 0
+       L2 TLB miss : 0
+          branches : 490
+       mispredicts : 173
+load-use interlock : 2199
+        I$ blocked : 818
+        D$ blocked : 117
